@@ -8,11 +8,3 @@ O objetivo é centralizar, em apenas um local, todas as minhas práticas voltada
 
 Além disso, esse repositório também pode auxiliar outras pessoas na aquisição de conhecimento caso se interessem.
 
-
-
-
-
-
-
-## "Ninguém ignora tudo. Ninguém sabe tudo. Todos nós sabemos alguma coisa. Todos nós ignoramos alguma coisa. Por isso aprendemos sempre." 
-(Paulo Freire)
