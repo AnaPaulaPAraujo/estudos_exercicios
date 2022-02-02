@@ -10,4 +10,9 @@ Além disso, esse repositório também pode auxiliar outras pessoas na aquisiç�
 
 
 
-## "Ninguém ignora tudo. Ninguém sabe tudo. Todos nós sabemos alguma coisa. Todos nós ignoramos alguma coisa. Por isso aprendemos sempre."  (Paulo Freire)
+
+
+
+
+## "Ninguém ignora tudo. Ninguém sabe tudo. Todos nós sabemos alguma coisa. Todos nós ignoramos alguma coisa. Por isso aprendemos sempre." 
+(Paulo Freire)
